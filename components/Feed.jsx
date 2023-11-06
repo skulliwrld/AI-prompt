@@ -69,7 +69,7 @@ const handleTagClick = (tagName) =>{
     <section className='feed'>
       <form className='relative w-full flex-center'>
         <input type="text" placeholder='search for tags or prompt data' value={searchText} onChange={handleSearchChange} className='search_input peer' required/>
-        <p>{searchedResults} is here</p>
+      
       </form>
 
       {searchText ? (
