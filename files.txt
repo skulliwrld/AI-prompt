@@ -1,0 +1,6 @@
+Implementing Search
+   -search by tag
+    -search by username
+    -search by prompt
+Implementing Click on tags to get redirected to related tags
+Implement View On other Profiles
